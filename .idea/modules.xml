@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/egc-paymentgatewaycomponent.iml" filepath="$PROJECT_DIR$/.idea/egc-paymentgatewaycomponent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/egc-paymentgatewaycomponent-client/egc-paymentgatewaycomponent-client.iml" filepath="$PROJECT_DIR$/egc-paymentgatewaycomponent-client/egc-paymentgatewaycomponent-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/egc-paymentgatewaycomponent-dao/egc-paymentgatewaycomponent-dao.iml" filepath="$PROJECT_DIR$/egc-paymentgatewaycomponent-dao/egc-paymentgatewaycomponent-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/egc-paymentgatewaycomponent-service/egc-paymentgatewaycomponent-service.iml" filepath="$PROJECT_DIR$/egc-paymentgatewaycomponent-service/egc-paymentgatewaycomponent-service.iml" />
+    </modules>
+  </component>
+</project>

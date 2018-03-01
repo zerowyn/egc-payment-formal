@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.eg.egsc.framework:framework-service:1.1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/eg/egsc/framework/framework-service/1.1.0-SNAPSHOT/framework-service-1.1.0-20180208.061151-9.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/eg/egsc/framework/framework-service/1.1.0-SNAPSHOT/framework-service-1.1.0-20180208.061151-9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/eg/egsc/framework/framework-service/1.1.0-SNAPSHOT/framework-service-1.1.0-20180208.061151-9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

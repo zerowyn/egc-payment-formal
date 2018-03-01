@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.eg.egsc.component:component-job:1.1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/eg/egsc/component/component-job/1.1.0-SNAPSHOT/component-job-1.1.0-20180207.144259-5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/eg/egsc/component/component-job/1.1.0-SNAPSHOT/component-job-1.1.0-20180207.144259-5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/eg/egsc/component/component-job/1.1.0-SNAPSHOT/component-job-1.1.0-20180207.144259-5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
